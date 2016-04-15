@@ -1,0 +1,10 @@
+*.
+*~
+.DS_Store
+*.xcuserstate
+*.xccheckout
+.swp
+xcuserdata
+build
+.xcuserdatad
+*.xcbkptlist
